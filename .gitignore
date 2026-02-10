@@ -1,0 +1,10 @@
+# Pastas de compilação do IntelliJ e Eclipse
+out/
+bin/
+
+# Arquivos de configuração da IDE
+*.iml
+.idea/
+.settings/
+.classpath
+.project
